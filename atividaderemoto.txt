@@ -1,0 +1,3 @@
+Atividade Encontro Remoto
+
+Atividade do senai realizado para o encontro remoto sobre o git.
